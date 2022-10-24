@@ -1,12 +1,6 @@
-React/JavaScript developer 👋
-👨‍💻 Frontend skills:
+### Привет, меня зовут Никита 👋
 
-JavaScript
-ReactJs
-Webpack
-HTML
-CSS
-
-📩 Contacts:
-
-telegram: @Jack1ee7
+* 🎨 Нравится реализация новых интересных идей
+* 🙋‍♂️🙋‍♀️🙋‍♂️ Хочу работать в команде
+* 📚 Учусь новому
+* 🔓 Стремлюсь писать понятный и читабельный код
